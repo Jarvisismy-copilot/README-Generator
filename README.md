@@ -87,7 +87,7 @@ Fork the repository and make a pull request with your new code.
 
 ## Tests
 
-To run tests, run the following command:
+* To run tests, run the following command:
 ```
 No tests at this time.
 ```
