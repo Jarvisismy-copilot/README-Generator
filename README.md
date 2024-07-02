@@ -72,7 +72,7 @@ CLI only.
 * Add Sreenshots...
 
 _____________________________________________________________________
-* ## Known Issues
+## Known Issues
 
 Currently there are only two directories to choose from for where the images are located in your app.
 'assets/images'  or 
