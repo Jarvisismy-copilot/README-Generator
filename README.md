@@ -1,24 +1,6 @@
 # Read-Me-Generator
 README.md Generator
 
-* Checking Off: 
-
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-WHEN I choose a license for my application from a list of options
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
-
-
-
-* Needs Work
-
-# README.md Generator 
-
 ## Description
 
 This code will prompt the user for the usual README sections and generate a README.md file for their project. The generated README will be able to include emojis, a table of contents (TOC), and proper formatting. It supports multiple screenshots, which must be located in either the /assets/images or src/assets/images folder of the project. The README.md file is assumed to be output or manually moved to the root of the project's directory. The output location for the README.md can be selected using inquirer-select-directory and placed anywhere on the user's machine.
