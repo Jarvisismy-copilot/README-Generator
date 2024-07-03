@@ -80,8 +80,9 @@ This project uses 2 npm packages:
 [inquirer-select-directory](https://classic.yarnpkg.com/en/package/inquirer-select-directory)
 
 ## License
-   ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
-This project is licensed under the MIT license.
+
+This project is licensed under the MIT license.   
+![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
  ## Questions 
   
