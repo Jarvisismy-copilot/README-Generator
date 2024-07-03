@@ -11,9 +11,6 @@
 
   [Usage](#usage)
 
-  [License](#license)
-
-
   [Issues](#known-issues)
 
   [Contributing](#how-to-contribute)
@@ -21,6 +18,8 @@
   [Tests](#tests) 
 
   [Credits](#credits)
+
+  [License](#license)
 
   [Questions](#questions)
   
@@ -45,18 +44,9 @@ o
 
 * Add Video
 
-______________________________________________________________________________________
+______________________________________________________________________________
 
-## License
-This project is licensed under the MIT license.
 
-## Known Issues 
-Currently there are only two directories to choose from for where the images are located in your app.
-
-## How To Contribute 
-  
-Fork the repository and make a pull request with your new code.
-  
 ## Tests 
   
 To run tests, run the following command:
@@ -73,6 +63,11 @@ This project uses two npm packages:
 [inquirer](https://www.npmjs.com/package/inquirer)
 
 [inquirer-select-directory](https://classic.yarnpkg.com/en/package/inquirer-select-directory)
+
+
+## License
+This project is licensed under the MIT license.
+
 
  ## Questions 
   
