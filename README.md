@@ -40,7 +40,8 @@
   #
 
 ### Screenshots
-No screenshots yet.
+
+![screenshot-1](assets/images/ss.png)
 
 ______________________________________________________________________________________
 
@@ -64,7 +65,12 @@ To run tests, run the following command:
 
 
 ## Credits 
-'src/assets/images' 
+
+This project uses two npm packages:
+
+[inquirer](https://www.npmjs.com/package/inquirer)
+
+[inquirer-select-directory](https://classic.yarnpkg.com/en/package/inquirer-select-directory)
 
  ## Questions 
   
