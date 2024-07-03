@@ -40,7 +40,11 @@ This code will prompt the user for the usual README sections and generate a READ
  CLI only.
 
 ### Screenshots
-![screenshot-0](assets/images/ReadMe-Example-Sample)
+
+![screenshot-0](assets/images/ss.png)
+
+![screenrecording](assets/images/ss2.mov)
+
 
 
 ______________________________________________________________________________
