@@ -36,10 +36,10 @@ This code will prompt the user for the usual README sections and generate a READ
   ## Usage 
   
   Clone the repository, run the install command and then 
-  'node index' 
-  or
-  'npm test'. 
-
+  'npm start' 
+  or 
+  'node index'
+ 
   Then navigate to the localhost port.
 
   ### Deployed Link
@@ -88,6 +88,6 @@ This project is licensed under the MIT license.
 
  ## Questions 
   
- If you have any questions about the repo or notice any bugs you want to report, open an issue or contact me directly at Input Email. 
+ If you have any questions about the repo or notice any bugs you want to report, open an issue or contact me directly at Chelseajarvis3301@icloud.com.
   
   
