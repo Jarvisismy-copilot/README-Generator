@@ -10,10 +10,6 @@ This code will prompt the user for the usual README sections and generate a READ
 
   [Usage](#usage)
 
-  [Issues](#known-issues)
-
-  [Contributing](#how-to-contribute)
-
   [Tests](#tests) 
 
   [Credits](#credits)
@@ -49,20 +45,6 @@ This code will prompt the user for the usual README sections and generate a READ
 
 ______________________________________________________________________________
 
-## Known Issues 
-
-Currently there are only two directories to choose from for where the images are located:
-
-'assets/images'
-or
-'src/assets/images'  
-
-No validation on input yet.
-
-## How To Contribute 
-  
-Fork the repository and make a pull request with your new code.
-  
 ## Tests 
   
 To run tests, run the following command:
@@ -81,8 +63,8 @@ This project uses 2 npm packages:
 
 ## License
 
-This project is licensed under the MIT license.   
-![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
+This project is licensed under the MIT license. 
 
  ## Questions 
   
