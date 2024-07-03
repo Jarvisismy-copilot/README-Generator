@@ -51,7 +51,7 @@ const questions = [
     type: "input",
     name: "email",
     message: "What is your email?",
-    default: "megan.meyers.388@gmail.com"
+    default: "chelseajarvis3301@icloud.com"
   },
 
   {
