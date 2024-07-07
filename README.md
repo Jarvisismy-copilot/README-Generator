@@ -43,7 +43,7 @@ This code will prompt the user for the usual README sections and generate a READ
 
 ![screenshot-0](assets/images/ss.png)
 
-![screenrecording](assets/images/ss2.mov)
+![screenrecording](https://drive.google.com/file/d/1clG0RUD1BeD5eeZAlHcSMW9zh_lkdh2v/view?usp=sharing)
 
 
 
